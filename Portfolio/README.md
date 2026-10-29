@@ -1,7 +1,3 @@
-# Tanvi.exe — Neon Developer Portfolio ✦
-
-A responsive, cyberpunk-inspired developer portfolio with animated circuit particles, neon panels, a terminal fidget, theme switching, contribution-grid visuals, a silent music-player visualizer, and interactive project cards.
-
 ## Run locally
 
 No build tools or dependencies required.
@@ -11,14 +7,6 @@ No build tools or dependencies required.
 
 For the smoothest local development experience, use VS Code with the Live Server extension.
 
-## Make it yours
-
-Before publishing, search the files for `YOUR-GITHUB-USERNAME` and replace it with Tanvi's actual GitHub username. Then update:
-
-- Project descriptions and links to reflect real projects.
-- Skills and learning progress to reflect her actual experience.
-- The sample GitHub contribution grid and commit counter if connecting real data.
-- The page title and introductory text if she'd prefer a different vibe.
 
 ## Features
 

@@ -64,9 +64,9 @@ These are starter ideas, not promises — the list can grow as I do.
 
 Have an idea, suggestion, or interesting project? I'd love to learn about it.
 
-You can find me here on GitHub: **[@YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)**
+You can find me here on GitHub: **[@TanviKudtarkar06](https://github.com/TanviKudtarkar06)**
 
-*Replace `YOUR-GITHUB-USERNAME` with Tanvi's actual GitHub username before publishing.*
+*Replace `TanviKudtarkar06` with Tanvi's actual GitHub username before publishing.*
 
 ---
 
